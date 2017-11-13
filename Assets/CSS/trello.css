@@ -1,5 +1,7 @@
 body{
 	margin: 0 auto;
+	background-color: skyblue;
+	height: 100%;
 }
 
 header{
@@ -79,6 +81,16 @@ input{
 	float: right;
 	outline: 1px solid black;
 
+}
+
+#btn{
+	color: red;
+	display: block;
+
+}
+
+#valor{
+	display: block;
 }
 
 
